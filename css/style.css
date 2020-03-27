@@ -26,3 +26,9 @@ a:link, a:visited {
   cursor: auto;
   font-weight: bold;
 }
+
+.footer {
+  border-style: ridge;
+  max-width: 500px;
+  margin: 20px 0;
+}
