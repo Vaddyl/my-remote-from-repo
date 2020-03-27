@@ -27,6 +27,14 @@ a:link, a:visited {
   font-weight: bold;
 }
 
+.header {
+  border-style: dotted;
+  max-width: 500px;
+  margin: 20px 0px;
+  text-align: center;
+  background-color: white;
+}
+
 .footer {
   border-style: ridge;
   max-width: 500px;
