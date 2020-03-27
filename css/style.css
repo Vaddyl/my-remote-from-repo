@@ -26,3 +26,11 @@ a:link, a:visited {
   cursor: auto;
   font-weight: bold;
 }
+
+.header {
+  border-style: dotted;
+  max-width: 500px;
+  margin: 20px 0px;
+  text-align: center;
+  background-color: white;
+}
