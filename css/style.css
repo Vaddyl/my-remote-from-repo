@@ -1,0 +1,28 @@
+body {
+  width: 100%;
+  margin: 30px;
+  background-color: antiquewhite;
+}
+
+.container {
+  border-style: solid;
+  border-radius: 3px;
+  max-width: 500px;
+  background-color: white;
+}
+
+#favorite {
+  width: 100%;
+  height: auto;
+}
+
+p {
+  text-align: center;
+}
+
+a:link, a:visited {
+  color: blue;
+  text-decoration: none;
+  cursor: auto;
+  font-weight: bold;
+}
