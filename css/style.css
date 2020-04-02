@@ -1,6 +1,8 @@
 body {
   width: 100%;
-  margin: 30px;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
   background-color: antiquewhite;
 }
 
